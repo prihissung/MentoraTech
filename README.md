@@ -25,7 +25,6 @@ A **MentoraTech** é um agente de IA que ajuda mulheres a ingressar e crescer na
 
 ## 🏗️ Arquitetura da Solução
 
-```mermaid
 flowchart LR
     User["Usuária<br>Chat Web"] --> Server["Backend Node.js<br>Express"]
     Server --> Azure["Azure AI Foundry<br>Agente de IA"]
